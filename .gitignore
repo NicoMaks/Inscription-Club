@@ -1,0 +1,12 @@
+## Bootstrap
+app/bootstrap*
+
+## Repertoires symfony
+vendor/*
+*/logs/*
+*/cache/*
+web/bundles/*
+
+# configurations
+
+app/config/*
