@@ -10,3 +10,7 @@ web/bundles/*
 # configurations
 
 app/config/*
+
+#configuration git
+
+git.txt
