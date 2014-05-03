@@ -14,3 +14,7 @@ app/config/*
 #configuration git
 
 git.txt
+
+#configuration netbeans
+
+nbproject/*
